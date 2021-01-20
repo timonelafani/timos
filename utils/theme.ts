@@ -1,15 +1,17 @@
 export default {
-    colors: {
-      text: "#111",
-      background: "#fff",
-      primary: "tomato",
-      secondary: "#3f3f3f",
-      muted: "#e0e0e0",
-      highlight: "#9f9f9f",
-      gray: "#6c6c6c",
-      accent: "#3f3f3f",
-    },
-    fonts: {
-      body: "Comic Sans MS",
-    },
-  };
+  colors: {
+    text: "#7d7d7d",
+    background: "#cb8670",
+    primary: "#cb8670",
+    secondary: "#838383",
+    gray: "#f3f3f3",
+    white: "#f4f4f4",
+    dark: "#141414",
+    border: "#eaeaea",
+    hover: "#cb8670",
+    header: "#363636",
+  },
+  fonts: {
+    body: "FuturaLT-Book",
+  },
+};
