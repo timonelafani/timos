@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'FuturaLT-Book';
+    src: url('FuturaLT-Book.eot');
+    src: url('FuturaLTBook-Black.eot?#iefix') format('embedded-opentype'), url('FuturaLT-Book.woff2') format('woff2'), url('FuturaLT-Book.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}

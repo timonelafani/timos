@@ -1,7 +1,9 @@
 export default {
   colors: {
-    text: "#7d7d7d",
-    background: "#cb8670",
+    // text: "#7d7d7d",
+    text: "#fff",
+    background: "#f4f4f4",
+    bg: "#cb8670",
     primary: "#cb8670",
     secondary: "#838383",
     gray: "#f3f3f3",
@@ -13,5 +15,20 @@ export default {
   },
   fonts: {
     body: "FuturaLT-Book",
+  },
+  buttons: {
+    primary: {
+      color: "background",
+      bg: "primary",
+      borderRadius: 0,
+    },
+    secondary: {
+      color: "background",
+      bg: "secondary",
+    },
+    gray: {
+      color: "background",
+      bg: "gray",
+    },
   },
 };

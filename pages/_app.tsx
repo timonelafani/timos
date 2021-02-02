@@ -8,6 +8,7 @@ function MyApp({ Component, pageProps }) {
       <Head>
         <title>Timo's Guest House</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+        <link href="/fonts/style.css" rel="stylesheet" />
       </Head>
       <Component {...pageProps} />
     </ThemeProvider>
